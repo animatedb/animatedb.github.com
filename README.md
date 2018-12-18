@@ -6,6 +6,9 @@ animatedb.github.com
 <h3>Car Miles per Year</h3>
 <img src="Mileage/carMilesPerYear.png">
 
+<h3></h3>
+<h3>Bike Miles per Year</h3>
+<img src="Mileage/BikeYearly.png">
 <h3>Bike Miles per Month</h3>
 <img src="Mileage/BikeMonthly.png">
 
